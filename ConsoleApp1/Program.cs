@@ -13,6 +13,10 @@ namespace ConsoleApp1
 
             System.Console.WriteLine("Hola Mundo!!!");
 
+            int edad = 25;
+
+            Console.WriteLine($"Tu edad es de {edad}");
+
         }
     }
 }
